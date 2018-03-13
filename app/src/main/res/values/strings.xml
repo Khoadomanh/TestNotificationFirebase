@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">TestNotificationFireBase</string>
+    <string name="input_your_email">Input your Email</string>
+    <string name="input_your_password">Input your Password</string>
+    <string name="login">LOGIN</string>
+    <string name="test_email">ducnguyen@gmail.com</string>
+    <string name="test_password">123456</string>
+    <string name="input_message">Input Message</string>
 </resources>
